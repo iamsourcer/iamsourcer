@@ -13,7 +13,7 @@ Alright! Now we are talking.  This is Day 20 of Isolation due to COVID-19.  I ne
 
 There are days were I would just wake up and think "Is this real or are we just part of some lousy Tom Cruise future-type movie ???" Anyways, I'am definitely hopping for this NOT to be my last post but the beginning of many more interesting posts.
 
-So who am I? Jon for the friends, @Iamsourcr for my followers on Twitter.  Sourcing Scientist during the day and Python Geek wannabe during the evening. 
+So who am I? Jon for the friends, @Iamsourcr for my followers on Twitter.  I'm a Sourcing Scientist during the day and a Python-Geek-wannabe during night time. 
 
 Hope to see you around, there's much more to tell. 
 
