@@ -1343,7 +1343,7 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {blog_sidebar': """\
+GLOBAL_CONTEXT = {'blog_sidebar': """\
 <div class="sidebar-module sidebar-module-inset">
   <h4>About</h4>
   <p>This is the Bootstrap Blog theme by @mdo, adapted for Nikola by @Kwpolska.
