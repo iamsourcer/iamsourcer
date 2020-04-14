@@ -1,5 +1,5 @@
 <!--
-.. title: Yes, still under isolation
+.. title: Isolation progress
 .. slug: 
 .. date: 2020-04-13
 .. tags: Blog, Sourcing, Python
