@@ -2,7 +2,7 @@
 .. title: Yes, still under isolation
 .. slug: 
 .. date: 2020-04-13
-.. tags: Blog, Sourcing, python
+.. tags: Blog, Sourcing, Python
 .. category: 
 .. link: 
 .. description: My 2020 plan
