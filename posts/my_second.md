@@ -30,9 +30,9 @@ to keep up with as it keeps evolving. Exploring and trying new things out in ord
 not combining Python + Sourcing (hmm, that sounds interesting).
 
 Now before I go, I'd like to leave something behind and I can keep this as sort of a log.  Have you ever thought of sourcing from **Hackerrank** ??
-Here's an interesting take away I've just discovered and that anyone can start playing with.
+Here's an interesting take away that I've just discovered and that anyone can start playing with.
 
-By using **site:hackerrank.com/profile/** is the targeted way to find hackerrank profiles on Google. Using the site: would do this magic trick.  
+Using **site:hackerrank.com/profile/** is the targeted way for us to find hackerrank profiles on Google. Using the site: operator would do this magic trick.  
 Now if you look closer by adding the keyword:"Current" and keyword:"Education" it will allow getting rid of pretty much all junk results
 with nothing more but - as Golum would say - our lovely _precious profiles_.  Although there's some sort of location added to each profile, the question here is:
 
