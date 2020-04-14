@@ -39,15 +39,19 @@ with nothing more but - as Golum would say - our lovely _precious profiles_.  Al
 > How can you possibly target specifc locations?
 
 The answer is ... drumroll ... **EDUCATION!** 
-Here's my work-around.  I went back to Google and did a simple search **universities in california** and done. If you combine the above with a very specific university (Just pick one, I can't do your job)
-you can not only target famous university students with specific skills Ex:_we know that San Jose State University students usually would have good engineering background_ 
-but now also the place where they can possibly be located. 
+Here's my work-around.  I went back to Google and did a simple search [**universities in california**](https://www.google.com/search?q=universities+in+california) and that's pretty much it.
+If you combine the above with a very specific university (Just pick one, I can't do your job) you can not only target famous university students but also the place where they can possibly be located. 
 
-So say we wanted people from San Jose who attended Stanford and have Python skills. Here's how our string combining everything would look like:
-> **site:www.hackerrank.com/  education* *"san jose state" badges*python** Note 
+Let's try this out and put everything into practice. 
+
+Say we wanted people who may possibly be around "San Jose, CA", attended Stanford and have Python skills. 
+Here's how our string would look like:
+> **site:www.hackerrank.com/  education* *"san jose state" badges*python** 
 
 Always think outside the BOX! What if we wanted people at a very specific company and country?? **Easy!**
 > **site:hackerrank.com/profile/* current* *Juniper "United States"** 
+
+Keep playing with this, combine stuff and show me your results! 
 
 Happy hunting guys! **\m/**
 
